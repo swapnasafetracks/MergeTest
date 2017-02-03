@@ -9,3 +9,4 @@ echo "Hello World";
 echo "Hello Canada";
 echo "Hello USA";
 echo "Hello Safe Tracks";
+echo "Deleted HotFix branch";
